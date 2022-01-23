@@ -1,0 +1,15 @@
+Voucher:
+Amount = Fixed amount value
+700 pieces = 15k
+200 pieces = 20k
+100 pieced = 30k
+
+Date time
+00:00 - 23:59
+25 Jan - 31 July 2022
+
+Applies To: All Product
+Types: Fixed Amount
+Minimum req: None
+Customer eligi: Everyone
+Usage limits: limit of 1 use
